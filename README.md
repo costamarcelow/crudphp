@@ -1,2 +1,3 @@
 # crudphp
- 
+
+php + mysql + apache
